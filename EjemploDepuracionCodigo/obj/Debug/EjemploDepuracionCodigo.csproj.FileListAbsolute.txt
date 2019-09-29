@@ -1,0 +1,10 @@
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\bin\Debug\EjemploDepuracionCodigo.exe.config
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\bin\Debug\EjemploDepuracionCodigo.exe
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\bin\Debug\EjemploDepuracionCodigo.pdb
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.csprojAssemblyReference.cache
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.Form1.resources
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.Properties.Resources.resources
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.csproj.GenerateResource.cache
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.csproj.CoreCompileInputs.cache
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.exe
+D:\EjemploDepuracionCodigo\EjemploDepuracionCodigo\obj\Debug\EjemploDepuracionCodigo.pdb
